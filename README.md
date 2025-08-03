@@ -2,6 +2,10 @@
 
 A full-stack web application that allows users to claim points and compete on a dynamic leaderboard.
 
+🚀 Live Demo
+🌐 Deployed on Netlify:
+[https://speakease-voice-assistant.netlify.app/](https://leaderboard-system-fe.netlify.app/)
+
 ## 📋 Features
 
 - **User Management**: Add new users and select from existing ones
